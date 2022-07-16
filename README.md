@@ -1,6 +1,5 @@
-# Webpack Starter
-
-Pack for create Webpack proyects which use HTML, JS and CSS.
+# To-Do APP
+App for organize your tasks.
 
 ### Commands:
 ```
